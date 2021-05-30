@@ -1,0 +1,11 @@
+# Global terrorism
+
+An R tools and Shiny application to for visualizing global terrorism.
+
+App online [here](https://arkadiusz-sobol.shinyapps.io/terrorism_dashboard/).
+
+Main functionalites:
+* map with terrorist attacks
+* correlations between data
+* plotting national and regional statisticks 
+* yearly comparison between regions
